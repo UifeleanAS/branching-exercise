@@ -4,5 +4,6 @@ int main() {
   char cat[dim];
   scanf("Numele pisicii tale este: %s", cat);
   printf("Numele citit este: %s", cat);
+  printf("\nHello cats!!!");
   return 0;
 }
